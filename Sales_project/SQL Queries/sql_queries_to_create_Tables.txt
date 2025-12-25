@@ -1,0 +1,36 @@
+Table 1
+CREATE TABLE customers (
+customer_id INT,    
+name TEXT,
+city TEXT,
+phone TEXT,
+age INT
+);
+
+Table 2
+
+CREATE TABLE products (
+product_id INT,     
+product_name TEXT,  
+category TEXT,      
+cost_price TEXT,    
+retail_price TEXT   
+);
+
+Table 3
+CREATE TABLE Sales (
+sale_id INT,        
+product_id TEXT,    
+customer_id TEXT,   
+quantity TEXT,      
+price TEXT,
+date DATE
+);
+
+Table 4
+CREATE TABLE Suppliers (
+supplier_id INT,    
+supplier_name TEXT, 
+city TEXT,
+phone TEXT
+);

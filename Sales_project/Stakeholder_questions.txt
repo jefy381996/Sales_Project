@@ -1,0 +1,10 @@
+1. What is the highest selling category in 3 Months
+2. What is the highest selling product in that category all months
+3. Compare the total revenue in all months
+4. Compare the total profit for all months
+5. what are the top 10 highest selling products
+6. what are the top 10 lowest selling products
+7. Is the retail price a factor for lowest selling products?
+8. What is the effect of weekend on sales
+9. What is the Trend in products
+10. what is trend in customers

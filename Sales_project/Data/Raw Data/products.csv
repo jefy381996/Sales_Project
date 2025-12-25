@@ -1,0 +1,501 @@
+product_id,product_name,category,cost_price,retail_price
+1,Nimko Mix 400g,Personal Care,568.03,715.23
+2,Sprite 1.5L,Household,450.62,566.23
+3,Sufi Banaspati 1kg,Personal Care,235.53,311.35---
+4,Nimko Mix 400g,,496.49 ,587.27
+5,Tea Whitener 1kg,Household ,178.11,201.09
+6,Sprite 1.5L,Grocery,255.2,284.23
+7,Sufi Banaspati 1kg,Beverages,287.34,378.16
+8,National Ketchup 1kg,Personal Care,298.97,335.13
+9,Shan Biryani Masala,Personal Care,486.65,606.63
+10,Tea Whitener 1kg,Personal Care,147.12,173.6
+11,Ariel Washing Powder 1kg,Beverages,382.54,491.64
+12,Nimko Mix 400g,Personal Care,694.72,810.58
+13,Rice Basmati 5kg,Personal Care,434.94,548.34
+14,,Personal Care??,,546.15
+15,Pepsi 1.5L,Household,707.86,815.2
+16,Dove Shampoo 360ml,Beverages,283.01,376.78
+17,National Ketchup 1kg,Beverages,764.62,1024.6
+18,Wheat Flour 10kg,Grocery,388.37,467.06
+19,Dettol Handwash 200ml,Household,327.54,386.73
+20,Olpers Milk 1L,Personal Care,79.57,100.09
+21,Coca Cola 1.5L,Beverages,313.15,374.08
+22,Tea Whitener 1kg,Grocery,65.84,85.88
+23,Sufi Banaspati 1kg,Grocery,624.29,719.34
+24,Tapal Danedar 950g,Household,736.46,891.92
+25,Colgate Toothpaste 100ml,Grocery,286.07,357.09
+26,Tea Whitener 1kg,Household,637.07 ,
+27,Rice Basmati 5kg,Household,392.82,463.93
+28,Tea Whitener 1kg,Personal Care,562.39,699.64
+29,Lux Soap 110g,Personal Care,283.55,361.73
+30,Shan Biryani Masala,Household,256.6,334.63
+31,Sprite 1.5L,Personal Care,60.59,79.99
+32,Rice Basmati 5kg,Grocery,359.82,478.74
+33,Surf Excel 1kg??,Beverages,,153.28
+34,Surf Excel 1kg,Personal Care,286.3,378.62
+35,Lifebuoy Soap 110g,Beverages,,198.91
+36,Olpers Milk 1L,Beverages??,582.31,752.87
+37,Lux Soap 110g,Personal Care,591.17,786.8
+38,Tea Whitener 1kg,,128.08,147.85
+39,Rice Basmati 5kg,Grocery??,173.73,228.38
+40,Nimko Mix 400g,Beverages,627.9,727.08
+41,Coca Cola 1.5L,Beverages,94.22,120.07
+42,Dettol Handwash 200ml,Grocery,294.29,372.32
+43,Surf Excel 1kg,Beverages,117.77,152.82
+44,Dettol Handwash 200ml,Household,399.96,460.78
+45,Lux Soap 110g,Personal Care,150.93,
+46,Lux Soap 110g,Household,584.9,745.3
+47,Tea Whitener 1kg,Household,772.92,979.1
+48,Lux Soap 110g,Household,583.43,
+49,Nestle Milk Pack 1L,Grocery,286.66,
+50,Ariel Washing Powder 1kg,Grocery ,752.72,1007.57
+51,Tea Whitener 1kg,Personal Care??,61.13,79.43
+52,Surf Excel 1kg,Household,588.01,782.67
+53,Lifebuoy Soap 110g,Grocery,486.41,552.85
+54,Dove Shampoo 360ml,Grocery,419.18,472.78
+55,Pepsi 1.5L,Grocery,,182.86
+56,Dettol Handwash 200ml,Personal Care,271.22,336.23
+57,Coca Cola 1.5L,Household---,182.76,222.83
+58,Wheat Flour 10kg,Grocery,763.59,994.69
+59,Sprite 1.5L,Household,396.4,474.39
+60,Wheat Flour 10kg,,498.96,606.21
+61,Tea Whitener 1kg,,88.62,116.62
+62,Nimko Mix 400g,Household,681.59 ,864.4
+63,Lux Soap 110g,Personal Care,,
+64,Dalda Cooking Oil 1L,Household,134.03,149.34
+65,Nimko Mix 400g,Grocery,382.26,508.17
+66,Colgate Toothpaste 100ml---,Grocery,451.18,604.37
+67,Lux Soap 110g,,106.13,123.92
+68,Lifebuoy Soap 110g,Personal Care,742.51,817.14
+69,Surf Excel 1kg,Personal Care,331.22,373.1
+70,Surf Excel 1kg,Beverages,499.71,624.95
+71,Nimko Mix 400g,Personal Care,102.15,116.08
+72,Sufi Banaspati 1kg,Grocery,121.67,163.35
+73,Sprite 1.5L,Household,,831.62
+74,Olpers Milk 1L,Personal Care,772.53,1024.02
+75,Lifebuoy Soap 110g,Grocery,749.27,899.45
+76,Tea Whitener 1kg,Personal Care,128.36,157.63
+77,Sprite 1.5L,Grocery,740.73,975.6
+78,Surf Excel 1kg,Beverages,414.11,555.77
+79,Tapal Danedar 950g,Household,423.28,567.8
+80,Lux Soap 110g,Beverages,352.32,402.48
+81,Dalda Cooking Oil 1L,Grocery,365.12,427.72
+82,Tea Whitener 1kg,Beverages,399.23,535.76
+83,Nestle Milk Pack 1L,Household,629.15,706.86
+84,Tea Whitener 1kg,Grocery,413.92,468.69
+85,Olpers Milk 1L,Household,150.43,181.5
+86,Olpers Milk 1L,Household,,903.56
+87,Shan Biryani Masala,Grocery,,379.38
+88,Lux Soap 110g,Personal Care,172.91,211.51
+89,Dove Shampoo 360ml,Beverages,80.67,105.77
+90,,Household,149.06,191.16
+91,Sprite 1.5L,,203.9,230.02
+92,Colgate Toothpaste 100ml,Personal Care,220.2,261.06
+93,Lux Soap 110g,Personal Care,194.45,
+94,Wheat Flour 10kg,Grocery,749.35,996.96
+95,Lifebuoy Soap 110g,Personal Care,765.46,1027.63
+96,National Ketchup 1kg,Beverages,149.81,168.18
+97,National Ketchup 1kg,Household,188.4,231.74
+98,Lux Soap 110g,,261.19,332.9
+99,Nimko Mix 400g,,254.51,328.52
+100,Olpers Milk 1L---,Beverages,500.97,
+101,,Household,61.04,76.75
+102,Wheat Flour 10kg---,Household,772.47,873.82
+103,Pepsi 1.5L,,353.46,399.04
+104,Lifebuoy Soap 110g,Grocery,750.21,855.17
+105,Sufi Banaspati 1kg,Household,522.42,589.73
+106,Dove Shampoo 360ml,Personal Care,166.05,207.59
+107,Tea Whitener 1kg,,494.17,585.54
+108,Nimko Mix 400g,Personal Care,478.96,528.81
+109,Pepsi 1.5L,Household,660.34,731.8
+110,Nimko Mix 400g,Household,599.29,704.9??
+111,Tissue Roll Rose Petal,Personal Care,540.51---,629.21
+112,Sufi Banaspati 1kg,Beverages,90.53,110.65
+113,Lifebuoy Soap 110g,Personal Care,133.94,159.84
+114,Sufi Banaspati 1kg,Beverages,522.89,583.63
+115,Sprite 1.5L,Grocery,748.09---,971.71---
+116,Lifebuoy Soap 110g,Personal Care,216.31,280.21
+117,Sufi Banaspati 1kg,Personal Care,198.99,232.36
+118,Sufi Banaspati 1kg,Household ,586.22,737.58
+119,National Ketchup 1kg,Beverages,782.85,1025.32
+120,,Beverages,394.75,
+121,National Ketchup 1kg,Personal Care,506.2,653.67
+122,Rice Basmati 5kg,Personal Care,351.53,392.48
+123,Lifebuoy Soap 110g,Personal Care,292.31,365.2
+124,Wheat Flour 10kg,Personal Care,691.04,887.58
+125,Nimko Mix 400g,Household,138.5,186.6
+126,Dettol Handwash 200ml,Grocery,305.35,373.76 
+127,,Beverages,,190.88
+128,Tea Whitener 1kg,Household,668.93,816.32
+129,Coca Cola 1.5L,Household,306.11,392.23
+130,Shan Biryani Masala,Household,729.12,839.05
+131,Surf Excel 1kg,Household,423.21,554.81
+132,Colgate Toothpaste 100ml,Personal Care,195.94,240.09??
+133,Sprite 1.5L,Personal Care---,459.13,572.29
+134,Tea Whitener 1kg,Personal Care,105.04,
+135,Sprite 1.5L,Household,790.44,1010.19
+136,Coca Cola 1.5L,Beverages,659.92,787.54
+137,Sprite 1.5L,Beverages,220.32,247.12
+138,Dove Shampoo 360ml,Beverages,495.03,641.47
+139,Rice Basmati 5kg,Beverages,757.66,868.35
+140,Surf Excel 1kg,Personal Care,622.84,822.22
+141,Sprite 1.5L,Grocery,448.02,602.55
+142,Rice Basmati 5kg,Beverages,741.93,858.79
+143,Wheat Flour 10kg,Beverages,157.44,181.27
+144,,Grocery,,699.06
+145,Sprite 1.5L,Beverages,275.57,349.01
+146,Shan Biryani Masala,Household,238.4,266.77
+147,Sprite 1.5L,Personal Care,584.37,755.36
+148,,Household,681.85,
+149,National Ketchup 1kg,Grocery,373.17,487.7
+150,Tissue Roll Rose Petal,Grocery,538.0,719.4
+151,Dove Shampoo 360ml,Personal Care,480.28,603.39
+152,,Personal Care,644.98,
+153,,Household,95.2,118.03
+154,Coca Cola 1.5L ,Beverages,622.2,730.08
+155,Nimko Mix 400g,Personal Care,493.89,657.22
+156,Wheat Flour 10kg,Household,360.45,399.02
+157,National Ketchup 1kg,Beverages,235.83,290.7
+158,Dove Shampoo 360ml,Grocery,683.42,872.08
+159,Rice Basmati 5kg,Household,195.04,237.25
+160,Colgate Toothpaste 100ml,Personal Care,724.92,924.03
+161,National Ketchup 1kg,Grocery,399.99,480.94
+162,Ariel Washing Powder 1kg,Household,547.94,669.67
+163,Tea Whitener 1kg,Beverages,372.28,435.68
+164,Dettol Handwash 200ml,Grocery,323.01,373.42??
+165,Tapal Danedar 950g,Beverages,636.01,709.09
+166,Sprite 1.5L,Beverages,680.58,906.51
+167,Sprite 1.5L,Household,282.85,321.07
+168,Sufi Banaspati 1kg,Grocery,60.4,79.14
+169,Tapal Danedar 950g,Beverages,,257.94
+170,Lifebuoy Soap 110g,Beverages,633.68---,700.59
+171,Nimko Mix 400g,Grocery,711.62,914.96
+172,Tapal Danedar 950g,Household,701.68,927.62
+173,Colgate Toothpaste 100ml,Beverages,621.83,722.69
+174,Wheat Flour 10kg,Grocery,392.22,503.59
+175,Nimko Mix 400g,Beverages,,842.59
+176,Surf Excel 1kg,Personal Care,398.14,475.79
+177,Dettol Handwash 200ml,Grocery,586.29??,652.82
+178,Olpers Milk 1L,Personal Care,719.48,934.32
+179,Nimko Mix 400g,Beverages,294.43,355.87
+180,Dalda Cooking Oil 1L,Grocery,200.97,262.7
+181,Lux Soap 110g,Beverages,390.9,508.98
+182,Lux Soap 110g,Beverages,318.53,378.55
+183,Shan Biryani Masala,Personal Care,293.79,386.71
+184,Wheat Flour 10kg,Beverages,587.18,707.97
+185,Pepsi 1.5L,Household,412.23,542.3
+186,Lifebuoy Soap 110g,Grocery,678.47---,873.65
+187,Tissue Roll Rose Petal,Personal Care,481.91,592.25
+188,Shan Biryani Masala,Beverages,753.3,908.84
+189,Coca Cola 1.5L,Personal Care,774.59,1027.84
+190,Olpers Milk 1L,,401.08,461.29
+191,Ariel Washing Powder 1kg,Beverages,366.8,493.52
+192,Ariel Washing Powder 1kg,Household,447.54,595.75
+193,Sufi Banaspati 1kg,Household,197.13,217.33
+194,Tea Whitener 1kg,Household,136.02,154.3
+195,Shan Biryani Masala,Beverages,349.96,410.16
+196,Sprite 1.5L---,Household,675.66,806.34
+197,Nimko Mix 400g,Grocery,443.97,570.36
+198,Sufi Banaspati 1kg,Grocery,181.08,213.46
+199,Sprite 1.5L,Household,490.89,559.88
+200,Dalda Cooking Oil 1L,Beverages,,
+201,Ariel Washing Powder 1kg,Personal Care,180.18,199.44
+202,Sprite 1.5L,Personal Care,423.06,480.12
+203,Shan Biryani Masala,Beverages,727.63,897.73
+204,Nimko Mix 400g,Personal Care,302.09,
+205,Pepsi 1.5L,Beverages---,498.73,589.26
+206,Tissue Roll Rose Petal,Beverages,309.8,401.24
+207,Pepsi 1.5L,Personal Care,696.28,771.97
+208,Dettol Handwash 200ml,Household,471.76,529.71??
+209,Lux Soap 110g,Grocery,631.5,748.09
+210,Ariel Washing Powder 1kg,Household,718.67,928.31
+211,Colgate Toothpaste 100ml,Grocery,467.97,527.98
+212,Dettol Handwash 200ml,Household,753.58---,952.19
+213,Tissue Roll Rose Petal,Beverages,710.92,932.88
+214,Dalda Cooking Oil 1L,Grocery,186.58,225.33
+215,Sprite 1.5L ,Personal Care,371.77,498.59
+216,Lux Soap 110g,,383.25,465.22
+217,Nestle Milk Pack 1L,Household,593.81,710.49
+218,Shan Biryani Masala,Personal Care,548.7,736.29
+219,Pepsi 1.5L,Beverages,549.01,604.87
+220,Lux Soap 110g,Beverages,171.76,222.79
+221,Sufi Banaspati 1kg,Personal Care,785.69,981.95
+222,Dalda Cooking Oil 1L,Personal Care,602.68,681.73
+223,Dove Shampoo 360ml,Personal Care,567.01,679.14
+224,Tea Whitener 1kg,Personal Care,622.88,835.41
+225,National Ketchup 1kg,Household,549.02,711.78
+226,Dove Shampoo 360ml,Grocery??,166.39,209.79
+227,Coca Cola 1.5L,Beverages,240.22,309.72
+228,,Household,401.82,496.54
+229,Nimko Mix 400g,Household,525.79---,657.87
+230,Lifebuoy Soap 110g,Beverages,147.86??,193.39
+231,Shan Biryani Masala,Personal Care,517.77,585.37
+232,Colgate Toothpaste 100ml??,Personal Care,675.91,860.62??
+233,Sufi Banaspati 1kg,Beverages,787.87,896.34
+234,Nestle Milk Pack 1L,Grocery,464.88,604.44
+235,Olpers Milk 1L,Beverages,415.01,475.17
+236,Surf Excel 1kg,Grocery,506.1,589.35
+237,Tissue Roll Rose Petal,Personal Care,51.65,57.57??
+238,Pepsi 1.5L,Grocery,776.08,875.47
+239,Nimko Mix 400g,Grocery,241.55,311.41
+240,Pepsi 1.5L,,747.26,841.37
+241,Pepsi 1.5L,Beverages,165.37,218.0
+242,Shan Biryani Masala,Grocery,559.49,732.54
+243,Colgate Toothpaste 100ml,Grocery,352.89,435.09
+244,Olpers Milk 1L,Household,756.79,951.6
+245,Lux Soap 110g,Household,535.16,676.36
+246,Surf Excel 1kg,Personal Care,95.87,108.35
+247,Wheat Flour 10kg,Personal Care,799.65,
+248,Wheat Flour 10kg,Household,358.06,452.25
+249,Nimko Mix 400g,Household,298.68,386.0
+250,,Personal Care,101.16,119.79
+251,Nimko Mix 400g,Beverages,404.53,511.82
+252,National Ketchup 1kg,Personal Care,642.21,836.52
+253,Nestle Milk Pack 1L,Personal Care,432.91,550.0
+254,Nestle Milk Pack 1L,Beverages,693.63,935.96
+255,Lux Soap 110g,Grocery,209.25,246.39
+256,Wheat Flour 10kg,Beverages,358.82,418.38
+257,Colgate Toothpaste 100ml,Household,452.37,528.85
+258,Lux Soap 110g,Personal Care,526.06,689.11
+259,Dalda Cooking Oil 1L,Beverages,78.52,89.55
+260,Olpers Milk 1L,Personal Care,447.68,517.98 
+261,Rice Basmati 5kg,Household,797.59,982.83
+262,Tapal Danedar 950g,Grocery,65.65,75.74
+263,Pepsi 1.5L,Personal Care,440.97,541.16
+264,Dove Shampoo 360ml---,Grocery,583.93,758.53
+265,Rice Basmati 5kg,Grocery,637.22,754.56
+266,National Ketchup 1kg,Personal Care,305.18,401.69
+267,Pepsi 1.5L---,Beverages,754.29,839.54
+268,Dove Shampoo 360ml,Grocery,536.51,
+269,Colgate Toothpaste 100ml,Household,538.9,617.46
+270,Sufi Banaspati 1kg,Grocery,235.21,298.5
+271,Tapal Danedar 950g,Grocery,489.51,590.56
+272,Dalda Cooking Oil 1L,Household,165.47,196.75
+273,Shan Biryani Masala,Household,74.81,84.32
+274,Tapal Danedar 950g,Grocery,144.16,186.15
+275,Wheat Flour 10kg,Grocery,216.73??,270.69
+276,Lux Soap 110g,Grocery,333.59??,404.73
+277,Tea Whitener 1kg,Grocery,673.34,840.11
+278,Dove Shampoo 360ml,,260.6,349.92
+279,Dove Shampoo 360ml,Household,708.89,833.88
+280,Colgate Toothpaste 100ml,Beverages,207.47,234.31??
+281,Lifebuoy Soap 110g,Beverages,142.94,186.79
+282,Shan Biryani Masala,,397.46 ,514.12
+283,Olpers Milk 1L,Beverages,311.25,363.65
+284,Sprite 1.5L,Household,500.62,564.02
+285,Surf Excel 1kg,,448.28,535.38
+286,Ariel Washing Powder 1kg,Beverages,616.21,775.93
+287,Sufi Banaspati 1kg,Household,288.68,365.42
+288,Nimko Mix 400g,Household,352.62,448.78
+289,Dettol Handwash 200ml,Household,112.48,
+290,Ariel Washing Powder 1kg,Household,577.1,774.21
+291,National Ketchup 1kg,Beverages,615.4,722.08
+292,Sprite 1.5L,Grocery,142.27??,160.65
+293,Surf Excel 1kg,Beverages,529.4,619.01
+294,Colgate Toothpaste 100ml,Household,655.44,739.48
+295,Sufi Banaspati 1kg,Personal Care,320.76,368.63
+296,Tea Whitener 1kg,Beverages,,871.21
+297,Colgate Toothpaste 100ml,Grocery,570.82,745.77
+298,National Ketchup 1kg,Grocery,143.29,162.53
+299,Tapal Danedar 950g,Beverages,680.84,840.59
+300,Dove Shampoo 360ml,Personal Care,641.97,783.08---
+301,Sufi Banaspati 1kg,Beverages,193.54,256.11
+302,Sprite 1.5L,Personal Care,367.95,467.1
+303,Colgate Toothpaste 100ml,Personal Care,195.79,261.07
+304,Coca Cola 1.5L,Personal Care,284.06,375.79
+305,Ariel Washing Powder 1kg,Personal Care,338.23,398.85
+306,Dalda Cooking Oil 1L,Household,117.76,132.33
+307,Dettol Handwash 200ml,Personal Care,341.34,432.28
+308,Nimko Mix 400g,Beverages,228.18,281.83
+309,National Ketchup 1kg,Grocery,507.08,645.12
+310,Tapal Danedar 950g,Beverages,638.32,723.09 
+311,Tissue Roll Rose Petal,Personal Care,628.65,713.33
+312,Olpers Milk 1L,Household ,546.56,692.62
+313,Sprite 1.5L,Beverages,223.09,256.73
+314,Olpers Milk 1L,Beverages,667.45,785.07
+315,Tapal Danedar 950g,Beverages,586.0,727.37
+316,Tea Whitener 1kg,Beverages---,374.8,466.97
+317,Rice Basmati 5kg,,369.75,432.9
+318,Coca Cola 1.5L,Beverages,283.38,311.94
+319,Tea Whitener 1kg,Personal Care,545.14,690.64
+320,Rice Basmati 5kg,Grocery,392.57,438.03
+321,Dove Shampoo 360ml,Grocery,172.65,200.36
+322,Nimko Mix 400g,Household,222.8,253.21
+323,Tissue Roll Rose Petal,Household,282.63,347.62
+324,Coca Cola 1.5L,Grocery,630.92,829.29
+325,Lux Soap 110g,Personal Care,584.56,661.39
+326,Lifebuoy Soap 110g,Household,585.73,648.98
+327,Tea Whitener 1kg,Beverages,516.48,
+328,Coca Cola 1.5L,Grocery ,339.73,413.2
+329,Nestle Milk Pack 1L,Personal Care,525.82,589.72
+330,Olpers Milk 1L,Beverages,449.79,558.84
+331,Olpers Milk 1L,Beverages,353.98,468.72
+332,,Grocery,83.5,104.65
+333,Coca Cola 1.5L,Grocery,380.63,418.84
+334,Sprite 1.5L,Household,172.04,202.93
+335,Nestle Milk Pack 1L,Grocery,215.96,242.79
+336,Dalda Cooking Oil 1L,Personal Care,761.21,914.9
+337,Surf Excel 1kg,Household,520.04,600.31
+338,Rice Basmati 5kg,Household,142.02,187.05
+339,Sprite 1.5L,Grocery,697.1,910.33
+340,Sprite 1.5L,Grocery,446.16,575.1---
+341,,Grocery,346.96,389.03
+342,Shan Biryani Masala,Grocery,723.19,882.83
+343,Dove Shampoo 360ml,Personal Care,668.2,806.55
+344,National Ketchup 1kg,Personal Care,760.49,925.4
+345,Ariel Washing Powder 1kg,Beverages,671.83,838.18
+346,Sufi Banaspati 1kg,Beverages,424.98,555.77
+347,Olpers Milk 1L,Beverages,243.33,280.08
+348,Ariel Washing Powder 1kg,Grocery,323.06,393.07
+349,Ariel Washing Powder 1kg,Personal Care,395.36,464.38
+350,Coca Cola 1.5L,Grocery,532.22,659.64
+351,Shan Biryani Masala,Personal Care ,589.42,787.87
+352,Dove Shampoo 360ml,Beverages---,525.85,638.9
+353,Lux Soap 110g,Personal Care,608.89,709.75
+354,Tissue Roll Rose Petal,Personal Care,423.24,520.29
+355,Pepsi 1.5L,,266.98,336.39
+356,Wheat Flour 10kg,Grocery,412.71,511.55
+357,Dettol Handwash 200ml,Household,126.03??,159.21
+358,Dalda Cooking Oil 1L,Household,156.75,186.46
+359,Tapal Danedar 950g---,Grocery,81.22---,93.44
+360,Colgate Toothpaste 100ml,Household,255.12,315.18
+361,Lifebuoy Soap 110g,Household,245.48,319.21
+362,Colgate Toothpaste 100ml,Beverages,,763.92
+363,Wheat Flour 10kg,Household,71.2,92.9
+364,Tissue Roll Rose Petal,Household,476.72??,531.62
+365,Tapal Danedar 950g,Personal Care,650.21,776.68
+366,Shan Biryani Masala,Beverages ,590.44,773.63
+367,Olpers Milk 1L,Personal Care,428.28,503.81
+368,Dettol Handwash 200ml,,467.74,614.3
+369,Sprite 1.5L,Grocery,346.81,410.57
+370,National Ketchup 1kg,Personal Care,515.76,604.48
+371,Shan Biryani Masala,Personal Care,298.57,348.36
+372,Pepsi 1.5L,Personal Care,517.46,616.97
+373,Tissue Roll Rose Petal,Grocery,143.89,186.09
+374,National Ketchup 1kg,Personal Care,584.4,711.19
+375,Sprite 1.5L,Personal Care,293.66,360.24
+376,Surf Excel 1kg,Grocery,,884.87
+377,Surf Excel 1kg,Beverages,492.48,588.92
+378,Coca Cola 1.5L,Personal Care,271.9,305.61
+379,,Grocery ,481.35,614.34
+380,Colgate Toothpaste 100ml,Personal Care ,648.69,728.24
+381,Tapal Danedar 950g,Grocery,51.11,65.2
+382,Shan Biryani Masala,Household,371.77,427.52
+383,Nimko Mix 400g,Grocery ,507.71,682.42
+384,Nimko Mix 400g,Beverages,716.58,855.34
+385,Dalda Cooking Oil 1L,Beverages,454.41,509.11
+386,Pepsi 1.5L,Beverages,755.02 ,919.81 
+387,Tapal Danedar 950g,Personal Care,601.54,680.0
+388,Coca Cola 1.5L,Personal Care,305.67,379.24
+389,Lifebuoy Soap 110g,Household,391.65,499.35
+390,Lifebuoy Soap 110g,Beverages,479.77,
+391,Dettol Handwash 200ml,Grocery,472.85,537.68
+392,Sprite 1.5L,Personal Care,372.17,
+393,Rice Basmati 5kg,Personal Care ,634.49,704.08
+394,Rice Basmati 5kg---,Beverages,476.38,554.78
+395,Sprite 1.5L,Personal Care,141.17??,167.39??
+396,Tea Whitener 1kg,Grocery,524.65,629.9
+397,,Grocery,547.97,637.91
+398,Pepsi 1.5L,Beverages,207.58,229.92
+399,Tapal Danedar 950g,Household,573.88,773.65
+400,Nimko Mix 400g,Household,432.04,503.19
+401,Surf Excel 1kg,Grocery,361.54,457.8
+402,Rice Basmati 5kg,Household,675.43,851.77
+403,,Beverages,369.39,426.25
+404,Lux Soap 110g,Household---,,
+405,Sprite 1.5L,Personal Care,236.22,290.54
+406,Tissue Roll Rose Petal,Personal Care,446.54,532.33
+407,Colgate Toothpaste 100ml,Beverages,,323.97
+408,Coca Cola 1.5L,Grocery,577.96,643.91
+409,Sufi Banaspati 1kg,Personal Care,669.89,845.34
+410,Rice Basmati 5kg,Grocery,64.85,81.87
+411,Lux Soap 110g,Grocery,101.79,128.07
+412,Pepsi 1.5L,Grocery,507.34,628.74
+413,Wheat Flour 10kg,Beverages,414.22 ,488.56
+414,Pepsi 1.5L,Household,194.67,245.35
+415,Pepsi 1.5L,Personal Care,485.26,649.87
+416,Nestle Milk Pack 1L ,Grocery,199.46,227.15
+417,Dove Shampoo 360ml,Household,166.32,195.05
+418,Dalda Cooking Oil 1L,Grocery,324.13,394.38
+419,Sprite 1.5L,Personal Care,104.43,138.89
+420,Tea Whitener 1kg,Grocery,619.67---,694.13
+421,Colgate Toothpaste 100ml,Beverages,552.92,618.46
+422,Shan Biryani Masala,Personal Care,241.78,312.04
+423,Dettol Handwash 200ml,Grocery,585.29,712.19
+424,Tissue Roll Rose Petal,Grocery,542.8,607.96
+425,Rice Basmati 5kg,Household,82.25,99.98
+426,Sprite 1.5L,Beverages,753.06,904.53
+427,Lux Soap 110g,Household,429.58,522.79
+428,Surf Excel 1kg,Grocery,754.54,856.4
+429,Tapal Danedar 950g---,Grocery,235.82,299.59
+430,Sufi Banaspati 1kg,Beverages,697.96,815.38
+431,Nestle Milk Pack 1L,Personal Care,231.43,272.8
+432,Tissue Roll Rose Petal,Personal Care,325.62,398.64
+433,Wheat Flour 10kg,Personal Care,394.99,494.44
+434,Tissue Roll Rose Petal,Household,703.16,911.31
+435,Tissue Roll Rose Petal,Household,774.62,972.91
+436,Nimko Mix 400g,Personal Care,417.39 ,544.14
+437,Colgate Toothpaste 100ml,Household,678.11,873.74
+438,Olpers Milk 1L,Personal Care,675.5,825.65
+439,,Beverages,742.42,884.89
+440,Sufi Banaspati 1kg,Personal Care,129.0,
+441,Tissue Roll Rose Petal,Household,678.8,773.78
+442,Coca Cola 1.5L,Grocery,727.01,914.26
+443,Surf Excel 1kg,Personal Care,752.18,933.58
+444,Sprite 1.5L,Grocery,774.7,1036.18
+445,Dettol Handwash 200ml,Beverages,278.35,365.38
+446,Wheat Flour 10kg,Grocery,73.41,85.62
+447,Sprite 1.5L,Beverages,57.09,
+448,Colgate Toothpaste 100ml,Household,341.41,459.14
+449,Nestle Milk Pack 1L,Personal Care,799.49??,944.0
+450,Ariel Washing Powder 1kg,Grocery,269.98,325.2
+451,Nimko Mix 400g,Beverages,392.63,442.94
+452,Dettol Handwash 200ml,Personal Care,760.49,985.54
+453,Tea Whitener 1kg,Beverages,364.06,
+454,Pepsi 1.5L,Personal Care,594.03??,690.74
+455,Shan Biryani Masala,Beverages??,132.17,167.11
+456,Tea Whitener 1kg,Grocery??,421.05,528.57
+457,Coca Cola 1.5L,Personal Care,310.76,353.85
+458,,Personal Care,796.93,912.05---
+459,Ariel Washing Powder 1kg??,Household,524.71,621.08
+460,Rice Basmati 5kg,Household,763.0,895.71
+461,Lifebuoy Soap 110g,Beverages,242.76,292.66
+462,Lux Soap 110g,Grocery,677.87??,754.85
+463,Lux Soap 110g,Personal Care,796.91---,927.87---
+464,Ariel Washing Powder 1kg ,Grocery,767.25,967.59
+465,Dalda Cooking Oil 1L??,Grocery,355.52,441.81 
+466,Sprite 1.5L,Personal Care,631.59,760.02
+467,Coca Cola 1.5L,Personal Care,731.03,943.44
+468,Tissue Roll Rose Petal---,Household,,388.65
+469,Surf Excel 1kg,Personal Care,717.83,953.09
+470,Shan Biryani Masala,Personal Care,780.22,998.68
+471,Colgate Toothpaste 100ml,Personal Care,665.95,766.82
+472,Wheat Flour 10kg ,Grocery,80.44,105.21
+473,Tea Whitener 1kg,Household,94.78,123.99
+474,Lifebuoy Soap 110g,Beverages,263.62,
+475,National Ketchup 1kg,Personal Care,505.68,626.39
+476,Rice Basmati 5kg,Grocery,183.14,234.47
+477,Dalda Cooking Oil 1L,Beverages,133.74,168.82
+478,Pepsi 1.5L,Grocery,409.78,537.53
+479,Dettol Handwash 200ml,,275.95,361.65
+480,Surf Excel 1kg,Household,523.59,702.9
+481,Ariel Washing Powder 1kg,Personal Care,412.89,479.02
+482,Lux Soap 110g,Beverages,339.25,411.28
+483,Tea Whitener 1kg,Beverages,224.54,259.65
+484,Tea Whitener 1kg,Beverages,710.94,816.36
+485,Olpers Milk 1L??,Household,233.5,306.85
+486,Nestle Milk Pack 1L---,Beverages,717.77,860.43
+487,Ariel Washing Powder 1kg,Beverages,178.66,237.09
+488,Dettol Handwash 200ml,Personal Care,608.26,721.8
+489,National Ketchup 1kg,Household,,334.81
+490,Ariel Washing Powder 1kg,,153.26,
+491,National Ketchup 1kg,Personal Care,717.11,874.7
+492,Nestle Milk Pack 1L,Beverages,758.14,847.03
+493,Lifebuoy Soap 110g,Personal Care ,80.44,103.44??
+494,Colgate Toothpaste 100ml,Beverages,461.81,510.63
+495,Tapal Danedar 950g,Beverages,473.01,533.13
+496,Shan Biryani Masala,Household,556.65,660.1
+497,Tapal Danedar 950g,Personal Care,398.2,513.71
+498,National Ketchup 1kg,Beverages,288.83,369.08
+499,Tissue Roll Rose Petal,Household,795.48,1011.56
+500,Tissue Roll Rose Petal,Beverages,776.18,932.15
